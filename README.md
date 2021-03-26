@@ -28,4 +28,19 @@ Datayı etiketleme aşamasında kullanabilmek için desktop/mobile olarak geliş
 <img src="github/desktop.gif"><br><br>
 <img src="github/mobile.gif" align="center">
 
+## ML Model Results
+### Naive Bayes
+
+<img src="github/NaiveBayes.jpg" align="center">
+
+### SVM
+
+<img src="github/SVM.jpg" align="center">
+
+### Logistic Regression 
+
+<img src="github/LR.jpg" align="center">
+<img src="github/Plot.jpg" align="center">
+
+
 
