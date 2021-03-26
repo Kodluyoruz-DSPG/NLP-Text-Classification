@@ -1,4 +1,9 @@
-# NLP- Text Classification
+# NLP- Aciliyet Sınıflandırması
+
+## Priorist Nedir?
+Gelen tüm mesajları "Acil" ve "Acil Değil" olarak sınıflandırarak tehlike veya önem içeren mesajları ön plana çıkarıp hızlıca fark edilmesini sağlar.
+
+<img src="github/priorist_gif.gif"><br><br>
 
 ## PreProcessing
 Her bir satır aşağıdaki gibi noktalama işaretlerinden, özel karakterlerden temizlendi ve varsa link, mail adresi gibi bağlantılar kaldırıldı.<br><br>
@@ -15,8 +20,10 @@ Zemberek sonucundaki çıktı: <br><br>
 <img src="github/zemberek.jpg" align="left"><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
 
-## Pre-trained Bert
-Pre-trained bert modeli import edildikten sonra bazı denemelerin sonuçları<br><br>
-<img src="github/bert.jpg" align="left">
+## Labeling
+Datayı etiketleme aşamasında kullanabilmek için desktop/mobile olarak geliştirdiğimiz 2 uygulama.
+
+<img src="github/desktop.gif"><br><br>
+<img src="github/mobile.gif" align="center">
 
 
