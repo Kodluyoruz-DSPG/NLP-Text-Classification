@@ -44,6 +44,7 @@ Datayı etiketleme aşamasında kullanabilmek için desktop/mobile olarak geliş
 #### Comparison 
 
 Geliştirilen üç farklı model ile ortalama %85 doğruluk puanı (Accuracy score) elde edilmiştir.
+
 <img src="github/Plot.jpg" align="center">
 
 
