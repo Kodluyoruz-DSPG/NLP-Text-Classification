@@ -40,6 +40,9 @@ Datayı etiketleme aşamasında kullanabilmek için desktop/mobile olarak geliş
 ### Logistic Regression 
 
 <img src="github/LR.jpg" align="center">
+
+#### Comparison 
+
 <img src="github/Plot.jpg" align="center">
 
 
