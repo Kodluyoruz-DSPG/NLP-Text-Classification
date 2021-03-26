@@ -1,5 +1,7 @@
 # NLP- Aciliyet Sınıflandırması
 
+### Proje Tanıtım Videosu'na [buradan](https://drive.google.com/file/d/1QTmIMObfebqSB4Mcjw6EhrYn3f6dggVu/view?usp=sharing) ulaşabilirsiniz
+
 ## Priorist Nedir?
 Gelen tüm mesajları "Acil" ve "Acil Değil" olarak sınıflandırarak tehlike veya önem içeren mesajları ön plana çıkarıp hızlıca fark edilmesini sağlar.
 
