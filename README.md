@@ -7,6 +7,8 @@ Gelen tüm mesajları "Acil" ve "Acil Değil" olarak sınıflandırarak tehlike 
 
 <img src="github/priorist_gif.gif"><br><br>
 
+Not: Bu repository içerisindeki tüm mesajlar örnek teşkil etmesi amacıyla ekibimiz tarafından gerçek mesajlara benzer şekilde oluşturulmuştur.
+
 ## PreProcessing
 Her bir satır aşağıdaki gibi noktalama işaretlerinden, özel karakterlerden temizlendi ve varsa link, mail adresi gibi bağlantılar kaldırıldı.<br><br>
 <img src="github/pre.jpg">
